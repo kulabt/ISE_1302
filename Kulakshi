@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>pre tag with CSS</title>
+    <style>
+        pre {
+            font-family: Arial;
+            color: #009900;
+            margin: 25px;
+        }
+    </style>
+</head>
+
+<body>
+    <pre>
+        Introduction to Software Engineering
+        University of Colombo School of Computing
+    </pre>
+</body>
+
+</html>
